@@ -51,7 +51,7 @@ DelWindow {
     Rectangle {
         id: galleryBackground
         anchors.fill: content
-        opacity: 0.2
+        opacity: 0.9
     }
 
     Rectangle {
